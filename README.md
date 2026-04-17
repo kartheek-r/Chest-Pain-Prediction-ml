@@ -23,7 +23,7 @@ Dataset includes:
 - Evaluation: Accuracy, Confusion Matrix
 
 ## 📈 Results
-- Accuracy: ~70–80%
+- Accuracy: ~65–70%
 - Key Insights:
   - Stress and anxiety increase pain
   - Sleep and activity reduce pain
